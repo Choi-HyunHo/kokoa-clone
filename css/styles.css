@@ -9,6 +9,7 @@
 
 @import '/css/login.css';
 @import '/css/friends.css';
+@import '/css/find.css';
 
 body {
   color: #2e363e;
