@@ -11,6 +11,7 @@
 @import '/css/login.css';
 @import '/css/friends.css';
 @import '/css/find.css';
+@import '/css/more.css';
 
 body {
   color: #2e363e;
