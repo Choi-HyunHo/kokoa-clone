@@ -1,17 +1,21 @@
 @import './reset.css';
 @import './variables.css';
+
+/* Components */
 @import '/components/status-bar.css';
 @import '/components/nav-bar.css';
 @import '/components/screen-header.css';
-
+@import '/components/alt-screen-header.css';
 @import '/components/user-component.css';
 @import '/components/badge.css';
 @import '/components/icon.raw.css';
 
+/* Screens */
 @import '/css/login.css';
 @import '/css/friends.css';
 @import '/css/find.css';
 @import '/css/more.css';
+@import '/css/settings.css';
 
 body {
   color: #2e363e;
