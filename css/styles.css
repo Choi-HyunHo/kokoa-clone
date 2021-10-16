@@ -11,12 +11,12 @@
 @import '/components/icon.raw.css';
 
 /* Screens */
-@import '/css/login.css';
-@import '/css/friends.css';
-@import '/css/find.css';
-@import '/css/more.css';
-@import '/css/settings.css';
-@import '/css/chat.css';
+@import '/css/screens/chat.css';
+@import '/css/screens/friends.css';
+@import '/css/screens/login.css';
+@import '/css/screens/more.css';
+@import '/css/screens/settings.css';
+@import '/css/screens/find.css';
 
 body {
   color: #2e363e;
