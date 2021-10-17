@@ -9,6 +9,25 @@
   align-items: center;
   top: 0;
   font-size: 32px;
+  font-weight: 600;
+}
+
+#no-mobile span {
+  animation: too-big 3.5s ease-out infinite;
+}
+
+@keyframes too-big {
+  0% {
+    transform: scale(0);
+  }
+
+  50% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(0);
+  }
 }
 
 @media screen and (max-width: 520px) {
