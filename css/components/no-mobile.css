@@ -13,7 +13,7 @@
 }
 
 #no-mobile span {
-  animation: too-big 3.5s ease-out infinite;
+  animation: too-big 3s ease-out infinite;
 }
 
 @keyframes too-big {

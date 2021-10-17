@@ -26,7 +26,7 @@
 }
 
 #splash-screen {
-  background-image: url('/custom/Disney.jpg');
+  background-image: url('custom/Disney.jpg');
   background-repeat: no-repeat;
   background-size: 100vw 100vh;
   position: absolute;
@@ -34,7 +34,7 @@
   width: 100vw;
   top: 0;
   animation: hideSplashScreen 0.4s ease-in-out forwards;
-  animation-delay: 2s;
+  animation-delay: 5s;
 }
 
 @keyframes hideSplashScreen {
