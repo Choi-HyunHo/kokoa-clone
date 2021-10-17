@@ -13,6 +13,7 @@
 }
 
 .welcome-header__text {
+  line-height: 1.5em;
   width: 50%;
   opacity: 0.7;
 }
@@ -101,4 +102,5 @@
   color: inherit;
   padding: 20px;
   background-color: var(--yellow);
+  opacity: 0.5;
 }
