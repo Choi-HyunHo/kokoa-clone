@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kakao clone
 
 카카오톡 클론 코딩 입니다.
@@ -52,3 +53,8 @@ URL : https://choi-hyunho.github.io/kokoa-clone/
 - 흔히 사용하는 hover 효과 또는 active, focus 등 transition 과 같이 사용 합니다.
 - 효과를 적용 할 때 hover 상태를 가진, 예를 들어 a:hover 에 transition 을 주지 않고, <br> a 태그에 transition 을 주어 사용 합니다.
 - 물론 상태에 적용해도 틀린 것은 아니지만, 변화가 갑작스럽게 변해 transition 의 효과가 무의미 합니다.
+=======
+# Kokoa clone
+
+https://choi-hyunho.github.io/kokoa-clone/
+>>>>>>> d91ba4deadd277bc21496aaa7864536f8176c96e
