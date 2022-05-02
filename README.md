@@ -24,7 +24,7 @@ URL : https://choi-hyunho.github.io/kokoa-clone/
 <img align="left" src="https://user-images.githubusercontent.com/87301268/166230600-5c53e5df-ea9c-4f19-9408-7467e4f22c78.jpg" width="300" height="400"/>
 <img align="left" src="https://user-images.githubusercontent.com/87301268/166230602-aaf76e24-f8b8-47ca-bd53-b7e091c505c1.jpg" width="300" height="400"/>
 <img src="https://user-images.githubusercontent.com/87301268/166230605-cc3caa6e-d16f-4371-b4ec-2e7ba0bc586d.jpg" width="300" height="400"/>
-<img = src="https://user-images.githubusercontent.com/87301268/166230609-3b9aafee-f4a9-4484-a2ff-6c7e2656afb8.jpg" width="300" height="400"/>
+<img  src="https://user-images.githubusercontent.com/87301268/166230609-3b9aafee-f4a9-4484-a2ff-6c7e2656afb8.jpg" width="300" height="400"/>
 
 <br>
 
