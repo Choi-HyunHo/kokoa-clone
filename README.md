@@ -40,7 +40,7 @@ URL : https://choi-hyunho.github.io/kokoa-clone/
 
 ## 🚧 문제점
 
-- 2022.5.12 기준 현재 fontawesome 이 적용되지 않는 현상
+- ~~2022.5.12 기준 현재 fontawesome 이 적용되지 않는 현상~~ ( 해결 )
 
 <br>
 
