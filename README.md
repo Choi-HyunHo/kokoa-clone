@@ -38,6 +38,12 @@ URL : https://choi-hyunho.github.io/kokoa-clone/
 
 <br>
 
+🚧 문제점
+
+- 2022.5.12 기준 현재 fontawesome 이 적용되지 않는 현상
+
+<br>
+
 ## 🔥 어려웠던 부분 & 느낀 점
 
 ### BEM 방법론
